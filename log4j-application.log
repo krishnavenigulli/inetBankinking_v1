@@ -1,0 +1,55 @@
+2022-09-05 22:01:47,644  INFO [main] ebanking:16 - URL is opened
+ 2022-09-05 22:01:48,495  INFO [main] ebanking:19 - entered username
+ 2022-09-05 22:01:48,559  INFO [main] ebanking:21 - entered password
+ 2022-09-05 22:01:55,767  INFO [main] ebanking:27 - login test passed
+ 2022-09-05 22:31:16,475  INFO [main] ebanking:16 - URL is opened
+ 2022-09-05 22:31:17,119  INFO [main] ebanking:19 - entered username
+ 2022-09-05 22:31:17,176  INFO [main] ebanking:21 - entered password
+ 2022-09-05 22:31:21,031  INFO [main] ebanking:27 - login test passed
+ 2022-09-06 08:56:13,032  INFO [main] ebanking:16 - URL is opened
+ 2022-09-06 08:56:15,286  INFO [main] ebanking:19 - entered username
+ 2022-09-06 08:56:15,355  INFO [main] ebanking:21 - entered password
+ 2022-09-06 08:56:18,788  INFO [main] ebanking:27 - login test passed
+ 2022-09-06 09:30:13,443  INFO [main] ebanking:16 - URL is opened
+ 2022-09-06 09:30:14,764  INFO [main] ebanking:19 - entered username
+ 2022-09-06 09:30:14,861  INFO [main] ebanking:21 - entered password
+ 2022-09-06 09:31:12,802  INFO [main] ebanking:16 - URL is opened
+ 2022-09-06 09:31:12,942  INFO [main] ebanking:19 - entered username
+ 2022-09-06 09:31:13,070  INFO [main] ebanking:21 - entered password
+ 2022-09-06 09:31:24,616  INFO [main] ebanking:27 - login test passed
+ 2022-09-06 10:11:24,393  INFO [main] ebanking:18 - URL is opened
+ 2022-09-06 10:11:26,372  INFO [main] ebanking:21 - entered username
+ 2022-09-06 10:11:26,441  INFO [main] ebanking:23 - entered password
+ 2022-09-06 10:11:29,846  INFO [main] ebanking:29 - login test passed
+ 2022-09-06 10:19:19,270  INFO [main] ebanking:14 - URL is opened
+ 2022-09-06 10:19:19,441  INFO [main] ebanking:17 - entered username
+ 2022-09-06 10:19:19,544  INFO [main] ebanking:19 - entered password
+ 2022-09-06 10:19:20,539  INFO [main] ebanking:25 - login test passed
+ 2022-09-06 10:46:43,431  INFO [main] ebanking:14 - URL is opened
+ 2022-09-06 10:46:46,815  INFO [main] ebanking:17 - entered username
+ 2022-09-06 10:46:47,648  INFO [main] ebanking:19 - entered password
+ 2022-09-06 10:47:00,134  INFO [main] ebanking:25 - login test passed
+ 2022-09-07 11:07:18,336  INFO [main] ebanking:14 - URL is opened
+ 2022-09-07 11:07:19,356  INFO [main] ebanking:17 - entered username
+ 2022-09-07 11:07:19,418  INFO [main] ebanking:19 - entered password
+ 2022-09-07 11:07:28,616  INFO [main] ebanking:25 - login test passed
+ 2022-09-07 17:29:25,484  INFO [main] ebanking:14 - URL is opened
+ 2022-09-07 17:29:27,056  INFO [main] ebanking:17 - entered username
+ 2022-09-07 17:29:27,169  INFO [main] ebanking:19 - entered password
+ 2022-09-07 17:29:29,109  INFO [main] ebanking:25 - login test passed
+ 2022-09-07 17:30:18,605  INFO [main] ebanking:18 - URL is opened
+ 2022-09-07 17:30:18,776  INFO [main] ebanking:21 - entered username
+ 2022-09-07 17:30:18,869  INFO [main] ebanking:23 - entered password
+ 2022-09-08 14:56:19,208  INFO [main] ebanking:17 - URL is opened
+ 2022-09-08 14:56:19,717  INFO [main] ebanking:20 - entered username
+ 2022-09-08 14:56:19,810  INFO [main] ebanking:22 - entered password
+ 2022-09-08 14:56:20,797  INFO [main] ebanking:28 - login test passed
+ 2022-09-08 15:00:43,531  INFO [main] ebanking:17 - URL is opened
+ 2022-09-08 15:00:43,673  INFO [main] ebanking:20 - entered username
+ 2022-09-08 15:00:43,755  INFO [main] ebanking:22 - entered password
+ 2022-09-08 15:00:44,969  INFO [main] ebanking:28 - login test passed
+ 2022-09-09 09:30:01,895  INFO [main] ebanking:18 - URL is opened
+ 2022-09-09 09:30:02,528  INFO [main] ebanking:21 - entered username
+ 2022-09-09 09:30:02,670  INFO [main] ebanking:23 - entered password
+ 2022-09-09 09:30:08,247  INFO [main] ebanking:29 - login test passed
+ 
